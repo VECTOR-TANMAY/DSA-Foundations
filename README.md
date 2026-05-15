@@ -1,2 +1,2 @@
 # DSA-Foundations
-logic and efficiency foundations for AI engineering. Exercises and solutions from Scott Berrett's DSA course
+Logic And Efficiency Foundations For AI Engineering. Exercises And Solutions From Scott Berrett's DSA Course
